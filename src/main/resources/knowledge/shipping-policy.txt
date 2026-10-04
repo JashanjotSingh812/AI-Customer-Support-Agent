@@ -1,0 +1,11 @@
+Shipping Policy
+
+Standard shipping normally takes 3 to 7 business days.
+
+Express shipping normally takes 1 to 3 business days.
+
+Delivery estimates may vary depending on the customer's
+location and external circumstances.
+
+Customers can check the current status of their order
+using their order ID.
